@@ -21,11 +21,14 @@
     {% include 'header.njk' %}
 
     <main>
+      {% include 'hero.njk' %}
+
       {{ content | safe }}
     </main>
     
     {% include 'footer.njk' %}
 
+  {# Script for CMS #}
   <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {

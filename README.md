@@ -27,3 +27,4 @@ You can [watch this video](https://youtu.be/4wD00RT6d-g) to see how Kevin uses E
 ## Sources::
 ## https://www.youtube.com/watch?v=4wD00RT6d-g&t=2924s
 ## https://11ty.rocks/
+## https://www.netlifycms.org/docs/add-to-your-site/
